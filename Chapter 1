@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="hi">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Crimson Petals - Chapter 1</title>
+  <style>
+    body {
+      font-family: 'Georgia', serif;
+      background-color: #111;
+      color: #f4f4f4;
+      line-height: 1.8;
+      padding: 30px;
+      max-width: 800px;
+      margin: auto;
+    }
+    h1 {
+      text-align: center;
+      color: crimson;
+      font-size: 2.5em;
+    }
+    h2 {
+      color: #ccc;
+      text-align: center;
+      margin-top: -10px;
+    }
+    .line {
+      margin: 20px 0;
+    }
+    .quote {
+      font-style: italic;
+      color: #ff7f7f;
+      margin: 20px 0;
+      border-left: 4px solid crimson;
+      padding-left: 15px;
+    }
+    footer {
+      margin-top: 40px;
+      text-align: center;
+      font-size: 0.9em;
+      color: #888;
+    }
+  </style>
+</head>
+<body>
+
+  <h1>Crimson Petals</h1>
+  <h2>Chapter 1: Laal Patton Wali Raat</h2>
+
+  <div class="line quote">
+    “Ek waqt tha jab sheher mein phool khilte the… lekin ab, har raat sirf laal patte girte hain… khoon ke…”
+  </div>
+
+  <div class="line">
+    Raat ke andhere mein, ek patli si ladki apne kandhe par chhoti si jholi uthaye, jungle ke raaste se bhaag rahi thi. Uske kapde phate hue the… pairon mein chhale… lekin uski aankhon mein sirf ek tasveer thi — <strong>apne chhote bhai Kiara ki.</strong>
+  </div>
+
+  <div class="line">
+    <strong>Kiara (7 saal ka)</strong>, bimaar tha. System ne usse “unfit” declare kar diya tha. Duniya ke naye kanoon ke hisaab se — jo bacha kamzor paaya jaata tha, usse <em>recycle</em> kar diya jaata tha... jise log "Silent Program" kehte the.
+  </div>
+
+  <div class="line">
+    Lekin <strong>Aria</strong> — uski 17 saal ki behen — chup rehne wali nahi thi.
+  </div>
+
+  <div class="line quote">
+    "Mujhe mat chhodo didi… mujhe mat bhejo un logon ke saath..."<br>
+    "Main tujhe kuch bhi hone nahi dungi… tu mera sab kuch hai…"
+  </div>
+
+  <div class="line">
+    Us raat, Aria ne system ke against jaane ka faisla kar liya. Apne chhote bhai ko kandhe par uthaya, aur wahan se bhaag gayi jahan se log sirf zinda laash banke lautte hain — <strong>District 13: Crimson Zone.</strong>
+  </div>
+
+  <div class="line">
+    Us raat jungle mein khoon ki badbu thi, aur laal rang ke patte zameen par baras rahe the — shayad yahaan kabhi gulab hua karte the. Aria ne Kiara ko ek chhoti si gufa mein chhupaya, aur khud ek shikaar ban gayi… us system ke liye jisne insaaniyat ka galaa ghont diya tha.
+  </div>
+
+  <div class="line quote">
+    “Chahe mujhe apna khoon bahana pade, main is laal duniya mein apne bhai ke liye ek nayi subah laaungi…”
+  </div>
+
+  <footer>
+    Chapter 1 ends • Agla Adhyay: "Rebel's Flame"
+  </footer>
+
+</body>
+</html>
