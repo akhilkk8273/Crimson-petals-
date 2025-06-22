@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="hi">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Crimson Petals - Chapter 2</title>
+  <style>
+    body {
+      font-family: 'Georgia', serif;
+      background-color: #0c0c0c;
+      color: #fdfdfd;
+      line-height: 1.8;
+      padding: 30px;
+      max-width: 800px;
+      margin: auto;
+    }
+    h1 {
+      text-align: center;
+      color: crimson;
+      font-size: 2.7em;
+    }
+    h2 {
+      text-align: center;
+      color: #ccc;
+      font-size: 1.5em;
+      margin-top: -10px;
+    }
+    .quote {
+      font-style: italic;
+      color: #ff6b6b;
+      border-left: 4px solid crimson;
+      padding-left: 15px;
+      margin: 20px 0;
+    }
+    .line {
+      margin: 20px 0;
+    }
+    strong {
+      color: #ff9f9f;
+    }
+    footer {
+      margin-top: 40px;
+      text-align: center;
+      font-size: 0.9em;
+      color: #888;
+    }
+  </style>
+</head>
+<body>
+
+  <h1>Crimson Petals</h1>
+  <h2>Chapter 2: Rebel's Flame</h2>
+
+  <div class="quote">
+    “Kabhi kabhi sach zinda rehne ke liye jhoot ban jaata hai... aur kabhi sach bolna maut se milne jaisa hota hai...”
+  </div>
+
+  <div class="line">
+    Aria Kiara ke pehlu mein baithi thi. Uska chhota sa haath uski mutthi mein tha — thanda, kamzor, lekin zinda. Par Aria ke paas kuch bhi nahi bacha tha. Na khana, na dawa, na rasta…
+  </div>
+
+  <div class="line">
+    Tabhi, ek awaaz jungle ke andheron mein goonji: <strong>“Tumhe wahan nahi hona chahiye...”</strong>  
+    Ek ladka — <strong>Revan</strong> — jiske haath pe <em>"R13 — Rebellion"</em> ka laal tattoo tha.
+  </div>
+
+  <div class="line">
+    Revan ne Aria aur Kiara ko District 13 ke tunnel base me le jaane ka offer diya. Wahan aur log the — doctor, hacker, soldier — ek hi mission ke liye:  
+    <strong>“System ko jala do, ya usme ghus ke tod do.”</strong>
+  </div>
+
+  <div class="line">
+    Aria sirf Kiara ko bachana chahti thi, par jab usne dekha ki wahan doctor ne Kiara ka ilaaj kiya — uski aankhon se aansoon ruk nahi paaye.
+  </div>
+
+  <div class="line">
+    Agle kuch dinon mein Aria ne weapons chalana, fire shots aur maps padhna seekha. Uska vishwas sirf ek baat mein tha:  
+    <strong>“Main sirf apne bhai ke liye nahi, sabke bhai-behen ke liye lad rahi hoon.”</strong>
+  </div>
+
+  <div class="line">
+    Ek raat, Revan ne usse ek chip di — <strong>“Yeh system ka mainframe access key hai.”</strong>  
+    Aria ne chip pakdi aur kaha:  
+    <div class="quote">“Kranti shuru ho gayi hai.”</div>
+  </div>
+
+  <footer>
+    Chapter 2 ends • Agla Adhyay: "System Ke Darwaze"
+  </footer>
+
+</body>
+</html>
